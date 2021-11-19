@@ -10,3 +10,14 @@ div.brownie {
     height: auto;
     text-align: center;
  }
+
+h5 {
+    font-weight: 700;
+    text-align: center;
+}
+
+body.secbody div.para {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:cyan;
+    color: white;
+}
